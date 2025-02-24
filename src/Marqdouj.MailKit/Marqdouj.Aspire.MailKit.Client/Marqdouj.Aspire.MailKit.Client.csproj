@@ -1,0 +1,36 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+	<Version>8.0.0</Version>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+    <Title>.NET Aspire MailKit Client</Title>
+    <PackageProjectUrl>https://github.com/marqdouj/Marqdouj.MailKit</PackageProjectUrl>
+    <PackageTags>Aspire MailKit</PackageTags>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageRequireLicenseAcceptance>False</PackageRequireLicenseAcceptance>
+    <Authors>Douglas Marquardt</Authors>
+    <Copyright>© Douglas Marquardt. All rights reserved.</Copyright>
+    <Description>MailKit wrapper for use in .NET Aspire</Description>
+    <PackageReadmeFile>README.md</PackageReadmeFile>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="..\..\..\README.md">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+  </ItemGroup>
+
+  <ItemGroup>
+     <PackageReference Include="MailKit" Version="4.10.0" />
+     <PackageReference Include="Microsoft.Extensions.Configuration.Binder" Version="9.0.2" />
+     <PackageReference Include="Microsoft.Extensions.Resilience" Version="9.2.0" />
+     <PackageReference Include="Microsoft.Extensions.Hosting.Abstractions" Version="9.0.2" />
+     <PackageReference Include="Microsoft.Extensions.Diagnostics.HealthChecks" Version="9.0.2" />
+     <PackageReference Include="OpenTelemetry.Extensions.Hosting" Version="1.11.1" />
+  </ItemGroup>
+	
+</Project>
