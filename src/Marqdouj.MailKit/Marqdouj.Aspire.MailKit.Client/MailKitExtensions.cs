@@ -4,6 +4,8 @@ using Marqdouj.Aspire.MailKit.Client;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 
+// For ease of discovery, extension methods are placed in
+// the Microsoft.Extensions.Hosting namespace.
 namespace Microsoft.Extensions.Hosting;
 
 /// <summary>
