@@ -13,3 +13,7 @@ https://www.nuget.org/packages/Marqdouj.Aspire.MailKit.Client/
 See demo on how to use this package at https://github.com/marqdouj/Marqdouj.MailDev
 
 Used in the Marqdouj.MailDev.ApiService project.
+
+## Release Notes
+v8.1.0
+- Update to MailKit 4.11.0
