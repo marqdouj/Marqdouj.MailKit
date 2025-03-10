@@ -9,10 +9,7 @@ https://learn.microsoft.com/en-us/dotnet/aspire/extensibility/custom-client-inte
 https://www.nuget.org/packages/Marqdouj.Aspire.MailKit.Client/
 
 ## How to use
-
-See demo on how to use this package at https://github.com/marqdouj/Marqdouj.MailDev
-
-Used in the Marqdouj.MailDev.ApiService project.
+- A demo of this and all of my NuGet packages can be found [here](https://github.com/marqdouj/BlazorDemo/).
 
 ## Release Notes
 v8.1.0
