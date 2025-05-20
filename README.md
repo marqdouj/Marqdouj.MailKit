@@ -12,6 +12,10 @@ https://www.nuget.org/packages/Marqdouj.Aspire.MailKit.Client/
 - A demo of this and all of my NuGet packages can be found [here](https://github.com/marqdouj/Blazor-Demos/).
 
 ## Release Notes
+### 8.1.4
+- Update NuGet packages
+- MailKit 4.12.1
+
 ### 8.1.3
 - Update NuGet packages
 - MailKit 4.12.0
