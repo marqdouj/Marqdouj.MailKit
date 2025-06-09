@@ -4,7 +4,7 @@
     <TargetFramework>net8.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-	<Version>8.1.4</Version>
+	<Version>8.1.5</Version>
     <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
     <Title>.NET Aspire MailKit Client</Title>
     <PackageProjectUrl>https://github.com/marqdouj/Marqdouj.MailKit</PackageProjectUrl>

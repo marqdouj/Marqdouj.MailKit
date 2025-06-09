@@ -9,9 +9,13 @@ https://learn.microsoft.com/en-us/dotnet/aspire/extensibility/custom-client-inte
 https://www.nuget.org/packages/Marqdouj.Aspire.MailKit.Client/
 
 ## How to use
-- A demo of this and all of my NuGet packages can be found [here](https://github.com/marqdouj/Blazor-Demos/).
+- A demo of this and all of my NuGet packages can be found 
+[here](https://github.com/marqdouj/BlazorSandbox/).
 
 ## Release Notes
+### 8.1.5
+- Update ReadMe
+
 ### 8.1.4
 - Update NuGet packages
 - MailKit 4.12.1
