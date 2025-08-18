@@ -13,6 +13,9 @@ https://www.nuget.org/packages/Marqdouj.Aspire.MailKit.Client/
 [here](https://github.com/marqdouj/BlazorSandbox/).
 
 ## Release Notes
+### 8.1.6
+- Update NuGet packages
+
 ### 8.1.5
 - Update ReadMe
 
