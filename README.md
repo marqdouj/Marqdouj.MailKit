@@ -1,5 +1,7 @@
 # MailKit .NET Aspire Client
 
+# This repository has been archived. Please use this [repo](https://github.com/marqdouj/dotnet.aspire.mailkit)
+
 Based on this article:
 
 https://learn.microsoft.com/en-us/dotnet/aspire/extensibility/custom-client-integration
